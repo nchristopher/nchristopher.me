@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2021 Nicholas Christopher • [Source](https://github.com/nchristopher/nchristopher.me)</copyright>
-    <lastBuildDate>Fri, 11 Jun 2021 14:58:50 -0700</lastBuildDate><atom:link href="https://nchristopher.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Aug 2021 19:45:00 -0700</lastBuildDate><atom:link href="https://nchristopher.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple doesn&#39;t care about privacy, and it&#39;s showing.</title>
+      <link>https://nchristopher.me/posts/apple-privacy/</link>
+      <pubDate>Sat, 14 Aug 2021 19:45:00 -0700</pubDate>
+      
+      <guid>https://nchristopher.me/posts/apple-privacy/</guid>
+      <description>A few days ago, Apple announced that it would begin checking content uploaded to iCloud Photos - the company’s photo backup/synchronization service - against a list of known CSAM material. This is fine on it’s own, however the system could easily be abused.
+So what happens when a government says “We want you to add these hashes of government-critical memes to your database”? Apple says they would “refuse such demands”, I doubt they could.</description>
+    </item>
+    
     <item>
       <title>The &#34;Open&#34; Web</title>
       <link>https://nchristopher.me/posts/the-open-web/</link>
